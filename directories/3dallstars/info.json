@@ -1,6 +1,6 @@
 {
   "title": "FNaI 3D All Stars",
-  "mfa_availability": "not-available",
+  "mfa_availability": false,
   "dl-link": "",
   "patch": "0.1.0",
   "bg-img": "",
