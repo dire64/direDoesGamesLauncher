@@ -1,6 +1,6 @@
 {
   "title": "FNaI CLASSIC",
-  "mfa_availability": false,
+  "mfa_availability": true,
   "dl-link": "",
   "mfa-dl-link": "",
   "patch": "0.1.0",
