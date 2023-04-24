@@ -1,9 +1,9 @@
 {
   "title": "PETER (working title)",
-  "source_availability": false,
+  "source_availability": true,
   "dl-link": "https://download1346.mediafire.com/gjqajfh9owwg3Qrwxj5ECn8ZBfZ6cC89zu1FSmlOEZVjB6mQvkCGuhrW_gmN8IdkZiY_z8h2ZYkSAYm2zx17QgmGNg/1kq9o8r1xdt96ag/PETER%282%29.zip",
   "source-dl-link": "",
-  "patch": "1.0.0",
+  "patch": "1.1.0",
   "executable": "PETER.exe",
   "website": "https://dire_.gamejolt.io/fnai-collection",
   "icon": "peter.png"
