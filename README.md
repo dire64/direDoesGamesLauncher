@@ -17,4 +17,4 @@ Don't you want to know ;)
 
 ## Download games simultaneously
 
-This launcher supports queuing games for install, you can choose to install 1 game or all the games, the launcher will do it all! __(As long as you don't close the launcher)__
+This launcher supports queuing games for install, you can choose to install 1 game or all the games, the launcher will do it all! _(As long as you don't close the launcher)_
