@@ -6,5 +6,6 @@
   "executable": "fnaiclassic.exe",
   "patch": "0.1.0",
   "website": "https://www.youtube.com/",
-  "icon": ""
+  "icon": "",
+  "gj-integration-state": "none"
 }
