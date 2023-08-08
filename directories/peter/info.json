@@ -7,5 +7,6 @@
   "executable": "PETER.exe",
   "website": "https://dire.gamejolt.io/fnai-collection",
   "icon": "peter.png",
-  "gj-integration-state": "none"
+  "gj-integration-state": "none",
+  "gj-integration-type": "none"
 }
