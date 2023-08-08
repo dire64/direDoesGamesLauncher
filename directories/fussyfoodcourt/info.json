@@ -7,5 +7,6 @@
   "executable": "funnygame.exe",
   "website": "https://dirediredocks.itch.io/fussy-foodcourt",
   "icon": "fussyfoodcourt.png",
-  "gj-integration-state": "none"
+  "gj-integration-state": "none",
+  "gj-integration-type": "none"
 }
