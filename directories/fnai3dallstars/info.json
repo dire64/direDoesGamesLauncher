@@ -7,5 +7,6 @@
   "executable": "fnai3dallstars.exe",
   "website": "https://dire.gamejolt.io/fnai-collection",
   "icon": "3dallstars.png",
-  "gj-integration-state": "full"
+  "gj-integration-state": "full",
+  "gj-integration-type": "cmd"
 }
